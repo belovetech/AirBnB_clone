@@ -1,7 +1,5 @@
 # AirBnB Clone - The console
 
-# AirBnB Clone - The console
-
 ![AirBnB console](https://raw.githubusercontent.com/bdbaraban/AirBnB_clone/master/assets/hbnb_logo.png)
 
 ### Contents
