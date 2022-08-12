@@ -5,10 +5,6 @@
   border: 1px solid #ddd;
   border-radius: 4px;
   position: relative;
-
-  /* display: flex;
-  align-items: center;
-  justify-content: center; */
 }
 
 .filters button {
@@ -24,8 +20,6 @@
   top: 50%;
   right: 30px;
   transform: translateY(-50%);
-  /* margin-right: 30px;
-  margin-left: auto; */
 }
 
 .filters button:hover {
